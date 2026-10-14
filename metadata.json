@@ -1,0 +1,6 @@
+{
+  "name": "DidikCelik - Aplikasi Interaktif Pemulihan Khas",
+  "description": "Aplikasi PWA interaktif guru pemulihan khas untuk kemahiran membaca dan menulis suku kata, gamifikasi, dan rekod analitik perkembangan murid secara masa nyata.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
